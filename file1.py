@@ -1,1 +1,2 @@
-this is the frist line of code
+this is the first line of code.
+This is the second line of feature2.
